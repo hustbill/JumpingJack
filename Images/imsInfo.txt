@@ -1,0 +1,21 @@
+
+// imsInfo.txt images
+
+// title/help screen
+o title.gif
+
+// jack's images
+s runningLeft.gif 6
+s runningRight.gif 6
+o jumpLeft.gif
+o jumpRight.gif
+
+
+// scenery images
+o mountains.gif
+o houses.gif
+o trees.gif
+
+// fireball and its explosion
+o fireball.gif
+s explosion.gif 5

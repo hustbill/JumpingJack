@@ -1,0 +1,10 @@
+
+// explosion clips
+
+explo1 explo1.wav
+explo2 explo2.wav
+explo3 explo3.wav
+
+
+// applause for game over
+applause clap.wav
